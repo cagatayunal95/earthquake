@@ -1,0 +1,23 @@
+<station code="" name="" netid="AFAD" insttype="" lat="" lon="" dist="">
+<comp name="HHZ">
+<acc value="" flag="0"/>
+<vel value="" flag="0"/>
+<psa03 value="" flag="0"/>
+<psa10 value="" flag="0"/>
+<psa30 value="" flag="0"/>
+</comp>
+<comp name="HHN">
+<acc value="" flag="0"/>
+<vel value="" flag="0"/>
+<psa03 value="" flag="0"/>
+<psa10 value="" flag="0"/>
+<psa30 value="" flag="0"/>
+</comp>
+<comp name="HHE">
+<acc value="" flag="0"/>
+<vel value="" flag="0"/>
+<psa03 value="" flag="0"/>
+<psa10 value="" flag="0"/>
+<psa30 value="" flag="0"/>
+</comp>
+</station>
