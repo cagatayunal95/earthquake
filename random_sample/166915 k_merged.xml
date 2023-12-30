@@ -1,0 +1,272 @@
+<Stations>
+  <Station code="1006">
+    <PGVEast>0.144</PGVEast>
+    <PGVNorth>0.113</PGVNorth>
+    <PGAEast>3.930</PGAEast>
+    <PGAEastG>0.40061162079510704</PGAEastG>
+    <PGANorth>2.774</PGANorth>
+    <PGANorthG>0.28277268093781854</PGANorthG>
+    <Location longitude="27.99662" latitude="40.33193" repi="59.5424350294" />
+  </Station>
+  <Station code="1607">
+    <PGVEast>0.110</PGVEast>
+    <PGVNorth>0.143</PGVNorth>
+    <PGAEast>1.449</PGAEast>
+    <PGAEastG>0.14770642201834863</PGAEastG>
+    <PGANorth>1.433</PGANorth>
+    <PGANorthG>0.14607543323139655</PGANorthG>
+    <Location longitude="29.09803" latitude="40.39437" repi="113.407606524" />
+  </Station>
+  <Station code="1618">
+    <PGVEast>0.033</PGVEast>
+    <PGVNorth>0.051</PGVNorth>
+    <PGAEast>0.811</PGAEast>
+    <PGAEastG>0.08267074413863405</PGAEastG>
+    <PGANorth>1.190</PGANorth>
+    <PGANorthG>0.12130479102956165</PGANorthG>
+    <Location longitude="28.92815" latitude="40.35095" repi="103.486937244" />
+  </Station>
+  <Station code="1703">
+    <PGVEast>0.201</PGVEast>
+    <PGVNorth>0.252</PGVNorth>
+    <PGAEast>3.824</PGAEast>
+    <PGAEastG>0.3898063200815494</PGAEastG>
+    <PGANorth>3.730</PGANorth>
+    <PGANorthG>0.3802242609582059</PGANorthG>
+    <Location longitude="27.26288" latitude="40.23182" repi="88.6553025284" />
+  </Station>
+  <Station code="3409">
+    <PGVEast>0.112</PGVEast>
+    <PGVNorth>0.136</PGVNorth>
+    <PGAEast>5.440</PGAEast>
+    <PGAEastG>0.5545361875637105</PGAEastG>
+    <PGANorth>5.377</PGANorth>
+    <PGANorthG>0.5481141692150866</PGANorthG>
+    <Location longitude="28.75884" latitude="41.02651" repi="74.0452377941" />
+  </Station>
+  <Station code="3901">
+    <PGVEast>0.115</PGVEast>
+    <PGVNorth>0.100</PGVNorth>
+    <PGAEast>1.986</PGAEast>
+    <PGAEastG>0.20244648318042813</PGAEastG>
+    <PGANorth>1.401</PGANorth>
+    <PGANorthG>0.14281345565749234</PGANorthG>
+    <Location longitude="27.21509" latitude="41.73774" repi="113.047236417" />
+  </Station>
+  <Station code="5902">
+    <PGVEast>1.391</PGVEast>
+    <PGVNorth>0.759</PGVNorth>
+    <PGAEast>25.944</PGAEast>
+    <PGAEastG>2.644648318042813</PGAEastG>
+    <PGANorth>18.973</PGANorth>
+    <PGANorthG>1.9340468909276247</PGANorthG>
+    <Location longitude="27.51504" latitude="40.97928" repi="35.1769425773" />
+  </Station>
+  <Station code="5903">
+    <PGVEast>1.259</PGVEast>
+    <PGVNorth>0.875</PGVNorth>
+    <PGAEast>53.883</PGAEast>
+    <PGAEastG>5.492660550458716</PGAEastG>
+    <PGANorth>27.938</PGANorth>
+    <PGANorthG>2.8479102956167175</PGANorthG>
+    <Location longitude="27.95033" latitude="40.97297" repi="12.8463839804" />
+  </Station>
+  <Station code="5904">
+    <PGVEast>0.479</PGVEast>
+    <PGVNorth>0.505</PGVNorth>
+    <PGAEast>6.661</PGAEast>
+    <PGAEastG>0.6790010193679917</PGAEastG>
+    <PGANorth>7.531</PGANorth>
+    <PGANorthG>0.7676860346585117</PGANorthG>
+    <Location longitude="27.12256" latitude="40.61485" repi="71.4003193006" />
+  </Station>
+  <Station code="5905">
+    <PGVEast>0.834</PGVEast>
+    <PGVNorth>0.948</PGVNorth>
+    <PGAEast>17.028</PGAEast>
+    <PGAEastG>1.7357798165137612</PGAEastG>
+    <PGANorth>17.881</PGANorth>
+    <PGANorthG>1.8227319062181446</PGANorthG>
+    <Location longitude="27.54794" latitude="40.98205" repi="32.7456886715" />
+  </Station>
+  <Station code="1016">
+    <PGVEast>0.097</PGVEast>
+    <PGVNorth>0.187</PGVNorth>
+    <PGAEast>1.151</PGAEast>
+    <PGAEastG>0.11732925586136594</PGAEastG>
+    <PGANorth>1.444</PGANorth>
+    <PGANorthG>0.14719673802242608</PGANorthG>
+    <Location longitude="27.65438" latitude="39.38041" repi="166.198148946" />
+  </Station>
+  <Station code="1606">
+    <PGVEast>0.072</PGVEast>
+    <PGVNorth>0.066</PGVNorth>
+    <PGAEast>1.037</PGAEast>
+    <PGAEastG>0.1057084607543323</PGAEastG>
+    <PGANorth>1.216</PGANorth>
+    <PGANorthG>0.12395514780835881</PGANorthG>
+    <Location longitude="29.12207" latitude="40.36298" repi="116.854040448" />
+  </Station>
+  <Station code="2202">
+    <PGVEast>0.281</PGVEast>
+    <PGVNorth>0.236</PGVNorth>
+    <PGAEast>5.482</PGAEast>
+    <PGAEastG>0.5588175331294597</PGAEastG>
+    <PGANorth>3.588</PGANorth>
+    <PGANorthG>0.3657492354740061</PGANorthG>
+    <Location longitude="26.58585" latitude="41.67049" repi="142.155330594" />
+  </Station>
+  <Station code="4106">
+    <PGVEast>0.016</PGVEast>
+    <PGVNorth>0.033</PGVNorth>
+    <PGAEast>0.360</PGAEast>
+    <PGAEastG>0.03669724770642201</PGAEastG>
+    <PGANorth>0.505</PGANorth>
+    <PGANorthG>0.05147808358817533</PGANorthG>
+    <Location longitude="29.45003" latitude="40.78627" repi="130.338566287" />
+  </Station>
+  <Station code="4111">
+    <PGVEast>0.038</PGVEast>
+    <PGVNorth>0.032</PGVNorth>
+    <PGAEast>0.358</PGAEast>
+    <PGAEastG>0.036493374108053006</PGAEastG>
+    <PGANorth>0.545</PGANorth>
+    <PGANorthG>0.05555555555555556</PGANorthG>
+    <Location longitude="29.5888" latitude="40.6844" repi="143.225540635" />
+  </Station>
+  <Station code="4112">
+    <PGVEast>0.065</PGVEast>
+    <PGVNorth>0.073</PGVNorth>
+    <PGAEast>0.425</PGAEast>
+    <PGAEastG>0.04332313965341488</PGAEastG>
+    <PGANorth>0.474</PGANorth>
+    <PGANorthG>0.048318042813455656</PGANorthG>
+    <Location longitude="29.84" latitude="40.7245" repi="163.671836474" />
+  </Station>
+  <Station code="4113">
+    <PGVEast>0.021</PGVEast>
+    <PGVNorth>0.015</PGVNorth>
+    <PGAEast>0.448</PGAEast>
+    <PGAEastG>0.04566768603465851</PGAEastG>
+    <PGANorth>0.351</PGANorth>
+    <PGANorthG>0.03577981651376146</PGANorthG>
+    <Location longitude="29.7335" latitude="40.7768" repi="154.219088516" />
+  </Station>
+  <Station code="4116">
+    <PGVEast>0.064</PGVEast>
+    <PGVNorth>0.058</PGVNorth>
+    <PGAEast>0.550</PGAEast>
+    <PGAEastG>0.05606523955147809</PGAEastG>
+    <PGANorth>0.424</PGANorth>
+    <PGANorthG>0.043221202854230374</PGANorthG>
+    <Location longitude="29.86583" latitude="40.71956" repi="165.89457508" />
+  </Station>
+  <Station code="4119">
+    <PGVEast>0.024</PGVEast>
+    <PGVNorth>0.020</PGVNorth>
+    <PGAEast>0.512</PGAEast>
+    <PGAEastG>0.05219164118246687</PGAEastG>
+    <PGANorth>0.512</PGANorth>
+    <PGANorthG>0.05219164118246687</PGANorthG>
+    <Location longitude="29.52061" latitude="40.77286" repi="136.379950468" />
+  </Station>
+  <Station code="4124">
+    <PGVEast>0.023</PGVEast>
+    <PGVNorth>0.023</PGVNorth>
+    <PGAEast>0.511</PGAEast>
+    <PGAEastG>0.052089704383282365</PGAEastG>
+    <PGANorth>0.516</PGANorth>
+    <PGANorthG>0.052599388379204894</PGANorthG>
+    <Location longitude="29.60625" latitude="40.78308" repi="143.482235282" />
+  </Station>
+  <Station code="4104">
+    <PGVEast>0.007</PGVEast>
+    <PGVNorth>0.010</PGVNorth>
+    <PGAEast>0.120</PGAEast>
+    <PGAEastG>0.012232415902140671</PGAEastG>
+    <PGANorth>0.092</PGANorth>
+    <PGANorthG>0.009378185524974516</PGANorthG>
+    <Location longitude="29.96998" latitude="40.68038" repi="175.125401769" />
+  </Station>
+  <Station code="4105">
+    <PGVEast>0.028</PGVEast>
+    <PGVNorth>0.020</PGVNorth>
+    <PGAEast>0.488</PGAEast>
+    <PGAEastG>0.049745158002038735</PGAEastG>
+    <PGANorth>0.395</PGANorth>
+    <PGANorthG>0.040265035677879715</PGANorthG>
+    <Location longitude="29.96935" latitude="40.67441" repi="175.158604872" />
+  </Station>
+  <Station code="4107">
+    <PGVEast>0.044</PGVEast>
+    <PGVNorth>0.039</PGVNorth>
+    <PGAEast>0.377</PGAEast>
+    <PGAEastG>0.038430173292558614</PGAEastG>
+    <PGANorth>0.338</PGANorth>
+    <PGANorthG>0.0344546381243629</PGANorthG>
+    <Location longitude="29.93244" latitude="40.76021" repi="171.063983156" />
+  </Station>
+  <Station code="4108">
+    <PGVEast>0.089</PGVEast>
+    <PGVNorth>0.102</PGVNorth>
+    <PGAEast>0.944</PGAEast>
+    <PGAEastG>0.09622833843017328</PGAEastG>
+    <PGANorth>1.093</PGANorth>
+    <PGANorthG>0.11141692150866461</PGANorthG>
+    <Location longitude="29.93293" latitude="40.76023" repi="171.10495283" />
+  </Station>
+  <Station code="4110">
+    <PGVEast>0.009</PGVEast>
+    <PGVNorth>0.010</PGVNorth>
+    <PGAEast>0.175</PGAEast>
+    <PGAEastG>0.017838939857288478</PGAEastG>
+    <PGANorth>0.165</PGANorth>
+    <PGANorthG>0.016819571865443424</PGANorthG>
+    <Location longitude="30.1525" latitude="41.0691" repi="190.14933845" />
+  </Station>
+  <Station code="4117">
+    <PGVEast>0.026</PGVEast>
+    <PGVNorth>0.021</PGVNorth>
+    <PGAEast>0.299</PGAEast>
+    <PGAEastG>0.030479102956167174</PGAEastG>
+    <PGANorth>0.279</PGANorth>
+    <PGANorthG>0.028440366972477066</PGANorthG>
+    <Location longitude="30.02665" latitude="40.66989" repi="180.01522314" />
+  </Station>
+  <Station code="4118">
+    <PGVEast>0.051</PGVEast>
+    <PGVNorth>0.055</PGVNorth>
+    <PGAEast>0.686</PGAEast>
+    <PGAEastG>0.06992864424057085</PGAEastG>
+    <PGANorth>0.842</PGANorth>
+    <PGANorthG>0.08583078491335372</PGANorthG>
+    <Location longitude="30.07805" latitude="40.72163" repi="183.661926155" />
+  </Station>
+  <Station code="4120">
+    <PGVEast>0.038</PGVEast>
+    <PGVNorth>0.039</PGVNorth>
+    <PGAEast>0.410</PGAEast>
+    <PGAEastG>0.041794087665647295</PGAEastG>
+    <PGANorth>0.445</PGANorth>
+    <PGANorthG>0.045361875637105</PGANorthG>
+    <Location longitude="30.02737" latitude="40.76761" repi="178.975202353" />
+  </Station>
+  <Station code="4121">
+    <PGVEast>0.040</PGVEast>
+    <PGVNorth>0.040</PGVNorth>
+    <PGAEast>0.382</PGAEast>
+    <PGAEastG>0.03893985728848114</PGAEastG>
+    <PGANorth>0.436</PGANorth>
+    <PGANorthG>0.04444444444444444</PGANorthG>
+    <Location longitude="29.96985" latitude="40.72277" repi="174.576130004" />
+  </Station>
+  <Station code="4122">
+    <PGVEast>0.047</PGVEast>
+    <PGVNorth>0.037</PGVNorth>
+    <PGAEast>0.271</PGAEast>
+    <PGAEastG>0.02762487257900102</PGAEastG>
+    <PGANorth>0.270</PGANorth>
+    <PGANorthG>0.027522935779816515</PGANorthG>
+    <Location longitude="30.02633" latitude="40.74829" repi="179.053703903" />
+  </Station>
+</Stations>

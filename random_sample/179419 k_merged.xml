@@ -1,0 +1,20 @@
+<Stations>
+  <Station code="4810">
+    <PGVEast>0.189</PGVEast>
+    <PGVNorth>0.156</PGVNorth>
+    <PGAEast>8.331</PGAEast>
+    <PGAEastG>0.8492354740061161</PGAEastG>
+    <PGANorth>5.988</PGANorth>
+    <PGANorthG>0.6103975535168196</PGANorthG>
+    <Location longitude="28.24483" latitude="36.83942" repi="35.881565428" />
+  </Station>
+  <Station code="4811">
+    <PGVEast>0.040</PGVEast>
+    <PGVNorth>0.050</PGVNorth>
+    <PGAEast>0.709</PGAEast>
+    <PGAEastG>0.07227319062181446</PGAEastG>
+    <PGANorth>0.763</PGANorth>
+    <PGANorthG>0.07777777777777778</PGANorthG>
+    <Location longitude="28.68675" latitude="36.96968" repi="76.2152252241" />
+  </Station>
+</Stations>

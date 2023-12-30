@@ -1,0 +1,29 @@
+<Stations>
+  <Station code="3002">
+    <PGVEast>0.132</PGVEast>
+    <PGVNorth>0.080</PGVNorth>
+    <PGAEast>2.693</PGAEast>
+    <PGAEastG>0.2745158002038736</PGAEastG>
+    <PGANorth>1.684</PGANorth>
+    <PGANorthG>0.17166156982670744</PGANorthG>
+    <Location longitude="44.28626" latitude="37.57832" repi="147.466441238" />
+  </Station>
+  <Station code="4702">
+    <PGVEast>0.111</PGVEast>
+    <PGVNorth>0.077</PGVNorth>
+    <PGAEast>1.314</PGAEast>
+    <PGAEastG>0.13394495412844037</PGAEastG>
+    <PGANorth>1.052</PGANorth>
+    <PGANorthG>0.1072375127420999</PGANorthG>
+    <Location longitude="41.35743" latitude="37.41714" repi="208.637094073" />
+  </Station>
+  <Station code="7301">
+    <PGVEast>0.388</PGVEast>
+    <PGVNorth>0.215</PGVNorth>
+    <PGAEast>4.249</PGAEast>
+    <PGAEastG>0.43312945973496425</PGAEastG>
+    <PGANorth>2.617</PGANorth>
+    <PGANorthG>0.2667686034658512</PGANorthG>
+    <Location longitude="42.21043" latitude="37.33154" repi="141.767699685" />
+  </Station>
+</Stations>
